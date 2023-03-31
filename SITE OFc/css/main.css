@@ -1,0 +1,131 @@
+.Body {
+    background-color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh; 
+
+    
+}
+
+p {
+    font-size: 90px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+    
+
+#nome{
+    position: absolute;
+    top: 10px;
+    right: 270px;
+    width: 750px; 
+    height: 120px;
+}
+
+#Jogo1{
+    position: absolute;
+    top: 200px; ;
+    right: 800px; ;
+    width: 160px; ;
+    height: 200px;;
+}
+
+#Jogo2{
+    position: absolute;
+    top:200px ;
+    right: 600px; 
+    width: 160px; 
+    height: 200px; 
+}
+
+#telaInicial{
+    position: absolute;
+    top: 20px; ;
+    right:1100px ;
+    width: 158px; ;
+    height: 26px; ;
+}
+.Destaque{
+    justify-content: center;
+}
+
+#Jogo3{
+    position: absolute;
+    top:200px ;
+    right: 400px; 
+    width: 160px; 
+    height: 200px; 
+}
+
+#Jogo4{
+    position: absolute;
+    top:400px ;
+    right: 800px; 
+    width: 160px; 
+    height: 200px; 
+}
+
+#Jogo5{
+    position: absolute;
+    top:400px ;
+    right: 600px; 
+    width: 160px; 
+    height: 200px; 
+}
+
+#Jogo6{
+    position: absolute;
+    top:400px ;
+    right: 400px; 
+    width: 160px; 
+    height: 200px; 
+}
+
+#Jogo7{
+    position: absolute;
+    top:600px ;
+    right: 800px; 
+    width: 160px; 
+    height: 200px; 
+}
+
+#Jogo8{
+    position: absolute;
+    top:600px ;
+    right: 600px; 
+    width: 160px; 
+    height: 200px; 
+}
+
+#Jogo9{
+    position: absolute;
+    top:600px ;
+    right: 350px; 
+    width: 230px; 
+    height: 200px; 
+}
+
+#anunio1{
+    position: absolute;
+    top: 200px;
+    right: 970px; 
+    width: 330px; 
+    height: 602px; 
+}
+
+#gr3{
+    position: absolute;
+    top: 200px;
+    right: 10px; 
+    width: 330px; 
+    height: 602px; 
+}
+
+#promo {
+    position: absolute;
+    top: 320px;
+    right: 10px; 
+    width: 320px; 
+    height: 200px; 
+}
+
